@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  talker:
+    image: project_git
+    command: ./clock_greeting.sh talker
+  listener:
+    image: project_git
+    command: ./clock_greeting.sh listener
+    depends_on:
+      - talker
+
