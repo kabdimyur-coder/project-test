@@ -14,7 +14,8 @@
 #Закомител и запушил на GitHub ![](https://github.com/kabdimyur-coder/images/blob/klient2/2.4закомител%20и%20запушил.png?raw=true)
 #  3.Создал Dockerfile опять с помощью АлисыAL, она предложила использовать образа alpine:3.19 потомучто мой скрипт иначе не запустится
 #  4.Собрал образ и запустил контейнер с названием Project_git
-#После этого запустил скрипт в ручную ![](https://github.com/kabdimyur-coder/images/blob/klient2/3.б)создал%20докеробраз%20из%20докерфайла.png?raw=true)
+#После этого запустил скрипт в ручную ![](https://github.com/kabdimyur-coder/images/blob/klient2/3.б%20создал%20докеробраз%20из%20докерфайла.png?raw=true)
 #  5.Создал docker-compose.yml, так же с помощью АлисыAL,
-#в нём запускаются два сервиса talker и listener с одним скриптом clock_greeting.sh ![](https://github.com/kabdimyur-coder/images/blob/klient2/5.а)создал%20и%20запустил%20докеркомпост.png?raw=true)
+#в нём запускаются два сервиса talker и listener с одним скриптом clock_greeting.sh ![](https://github.com/kabdimyur-coder/images/blob/klient2/5.а%20%20создал%20и%20запустил%20докеркомпост.png?raw=true)
+
 
